@@ -1,34 +1,25 @@
-# The Time machine theme
+# Uncle.Wiki
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/time-machine/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/time-machine/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-time-machine.svg)](https://badge.fury.io/rb/jekyll-theme-time-machine)
 
-*Time machine is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/time-machine), or even [use it today](#usage).*
+*Created to explain [everything](uncle.wiki) uncle, or [read on](#usage).*
 
-![Thumbnail of Time machine](thumbnail.png)
+![Thumbnail](thumbnail.png)
 
 ## Usage
 
-To use the Time machine theme:
+To use uncle.wiki:
 
 1. Add the following to your site's `_config.yml`:
 
     ```yml
-    remote_theme: pages-themes/time-machine@v0.2.0
-    plugins:
-    - jekyll-remote-theme # add this line to the plugins list if you already have one
-    ```
-
-2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
-
-    ```ruby
-    gem "github-pages", group: :jekyll_plugins
-    ```
-
+    remote_theme: UncleProject/Uncle.wiki
+    
 ## Customizing
 
 ### Configuration variables
 
-Time machine will respect the following variables, if set in your site's `_config.yml`:
+The machine will respect the following variables, if set in your site's `_config.yml`:
 
 ```yml
 title: [The title of your site]
