@@ -3,6 +3,7 @@ description: Uncle Wiki is the place for all information
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-time-machine
+theme: jekflix
   - blog
   - template
   - jekyll
