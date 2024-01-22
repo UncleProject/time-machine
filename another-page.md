@@ -2,23 +2,12 @@
 layout: default
 ---
 
-## Welcome to another page
+## Welcome to uncle.wiki
 
 _yay_
 
-## Welcome to another page
+## This is page one
 
 _yay_
 
-## Welcome to another page
-
-_yay_
-
-## Welcome to another page
-
-_yay_
-
-## Welcome to another page
-
-_yay_
 [![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)](./)
